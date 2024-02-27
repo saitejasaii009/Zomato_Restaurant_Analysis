@@ -24,3 +24,5 @@ Customize the dashboard appearance, including colors, fonts, and branding.
 
 **Improve Zomato’s Services :** For Zomato, this analysis can help in improving their services, planning their marketing strategies, and enhancing customer experience.
 
+**Access the dashboard through the link :** https://www.novypro.com/project/zomato-restaurant-analysis-using-power-bi-
+
